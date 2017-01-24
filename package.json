@@ -1,0 +1,22 @@
+{
+  "name": "fanalytics",
+  "version": "1.0.0",
+  "description": "Website for advanced fantasy football analytics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakerose27/fanalytics.git"
+  },
+  "author": "jakerose27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakerose27/fanalytics/issues"
+  },
+  "homepage": "https://github.com/jakerose27/fanalytics#readme",
+  "dependencies": {
+    "mongodb": "^2.2.21"
+  }
+}
