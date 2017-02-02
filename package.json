@@ -16,7 +16,5 @@
     "url": "https://github.com/jakerose27/fanalytics/issues"
   },
   "homepage": "https://github.com/jakerose27/fanalytics#readme",
-  "dependencies": {
-    "mongodb": "^2.2.21"
-  }
+  "dependencies": {}
 }
